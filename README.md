@@ -1,2 +1,2 @@
-# -RepositorioHenry-
-Homework de terminal git y github
+Este es el proyecto homework de terminal git y github 
+
